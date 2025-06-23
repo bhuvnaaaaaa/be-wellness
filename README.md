@@ -1,4 +1,5 @@
 # Be - AI-Powered Wellness App
+https://be-wellness.netlify.app/
 
 A beautiful, space-themed wellness application that provides daily affirmations, AI-powered journal responses, and guided meditations.
 
